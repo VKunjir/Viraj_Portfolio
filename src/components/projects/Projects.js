@@ -19,42 +19,28 @@ function Projects() {
           title="Online Art Gallery"
           des="I have developed Online Art Gallery System in MERN stack with my friends where we can Buy or Sell different arts."
           src={projectFour}
-          link="https://github.com/VKunjir/Art-Gallery"
+          link1="https://github.com/VKunjir/Art-Gallery"
+          link2="https://art-gallery-frontend-seven.vercel.app/home/1"
         />
         <ProjectsCard
           title="Personal Portfolio WEebsite"
           des="I had developed my own Portfolio website using React and Tailwind."
           src={portfolio_pro}
-          link="https://github.com/VKunjir/Viraj_Portfolio"
+          link1="https://github.com/VKunjir/Viraj_Portfolio"
+          link2="https://vkunjir.github.io/Viraj_Portfolio/"
         />
         <ProjectsCard
           title="College Reviewing Website"
           des="This website help student to see different review about various college."
           src={college_pro}
-          link="https://github.com/VKunjir/College-Rating-Website"
+          link1="https://github.com/VKunjir/College-Rating-Website"
         />
         <ProjectsCard
           title="Student Performance Indicator"
           des="This project help user to calculate student performance in upcoming test based on different parameter."
           src={ML_Pro}
-          link="https://github.com/VKunjir/ML_Project"
+          link1="https://github.com/VKunjir/ML_Project"
         />
-
-        {/* <ProjectsCard
-            title="SOCIAL MEDIA CLONE"
-            des="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-            src = {projectThree}
-            />
-            <ProjectsCard
-             title="E-COMMERCE WEBSITE"
-             des="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-             src = {projectTwo}
-             />
-            <ProjectsCard
-            title="CHATTING APP"
-            des="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-            src = {projectOne}
-            /> */}
       </div>
     </section>
   );
