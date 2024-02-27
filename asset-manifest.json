@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Viraj_Portfolio1/static/css/main.a9363f6d.css",
+    "main.js": "/Viraj_Portfolio1/static/js/main.de754d0b.js",
+    "static/media/ML_Pro.jpg": "/Viraj_Portfolio1/static/media/ML_Pro.e8bed331ddf2385946fc.jpg",
+    "static/media/college_project.jpg": "/Viraj_Portfolio1/static/media/college_project.58f59ec9020b81cdafd5.jpg",
+    "static/media/portfolio_pro.jpg": "/Viraj_Portfolio1/static/media/portfolio_pro.64185d385a86df23f1f8.jpg",
+    "static/media/bannerImg2.jpg": "/Viraj_Portfolio1/static/media/bannerImg2.46d764c40be5839db56d.jpg",
+    "static/media/logo3.png": "/Viraj_Portfolio1/static/media/logo3.8b946135f8f831de3a68.png",
+    "static/media/bannerImg.png": "/Viraj_Portfolio1/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
+    "static/media/projectFour-2.jpeg": "/Viraj_Portfolio1/static/media/projectFour-2.5206fd0d23e4b4048bca.jpeg",
+    "static/media/contactImg.png": "/Viraj_Portfolio1/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/Viraj_Portfolio1/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectThree.jpeg": "/Viraj_Portfolio1/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/Viraj_Portfolio1/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/Viraj_Portfolio1/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "static/media/logo2.png": "/Viraj_Portfolio1/static/media/logo2.0e0daac2341a23bf4f02.png",
+    "index.html": "/Viraj_Portfolio1/index.html",
+    "main.a9363f6d.css.map": "/Viraj_Portfolio1/static/css/main.a9363f6d.css.map",
+    "main.de754d0b.js.map": "/Viraj_Portfolio1/static/js/main.de754d0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9363f6d.css",
+    "static/js/main.de754d0b.js"
+  ]
+}
