@@ -14,6 +14,8 @@ import college_pro from "./images/projects/college_project.jpg";
 import ML_Pro from "./images/projects/ML_Pro.jpg";
 import portfolio_pro from "./images/projects/portfolio_pro.jpg";
 import projectFour from "./images/projects/projectFour-2.jpeg";
+import ECommerce from "./images/projects/ECommerce.png";
+import ML_Harvesting from "./images/projects/ML_Harvesting.JPG";
 
 export {
   logo,
@@ -32,4 +34,6 @@ export {
   college_pro,
   ML_Pro,
   projectFour,
+  ECommerce,
+  ML_Harvesting,
 };

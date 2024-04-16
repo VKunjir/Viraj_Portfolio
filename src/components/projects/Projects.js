@@ -5,6 +5,8 @@ import {
   college_pro,
   portfolio_pro,
   ML_Pro,
+  ECommerce,
+  ML_Harvesting,
 } from "../../assets/index";
 
 function Projects() {
@@ -15,6 +17,20 @@ function Projects() {
     >
       <div className="flex justify-center items-center text-center"></div>
       <div className="grid grid-cols-3 gap-14">
+        <ProjectsCard
+          title="E-commerce Application"
+          des="Introducing an e-commerce platform to facilitate online shopping. Tech stack used is HTML, CSS, Javascript, Flask & MongoDB database.This platform provides a comprehensive solution for users to browse, search, and purchase products conveniently from the comfort of their homes."
+          src={ECommerce}
+          link1="https://github.com/VKunjir/E-Commerce-Website-GSDS"
+          link2="https://ecommerce-p0io.onrender.com/?user_id=6618cab6625f668b17f94633"
+        />
+        <ProjectsCard
+          title="Optimizing-Harvesting-for-Maximum-Profit"
+          des="This project aims to predict the best month for harvesting various agricultural goods such as vegetables, fruits, and flowers in order to maximize farmers' profits. By leveraging machine learning techniques, we can forecast the optimal time to harvest different crops, taking into account factors such as seasonal variations, market demand, and price fluctuations."
+          src={ML_Harvesting}
+          link1="https://github.com/VKunjir/Optimizing-Harvesting-for-Maximum-Profit"
+          link2="https://github.com/VKunjir/Optimizing-Harvesting-for-Maximum-Profit"
+        />
         <ProjectsCard
           title="Online Art Gallery"
           des="I have developed Online Art Gallery System in MERN stack with my friends where we can Buy or Sell different arts."
