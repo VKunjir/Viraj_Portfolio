@@ -7,6 +7,7 @@ import {
   ML_Pro,
   ECommerce,
   ML_Harvesting,
+  AgroMarket,
 } from "../../assets/index";
 
 function Projects() {
@@ -17,6 +18,13 @@ function Projects() {
     >
       <div className="flex justify-center items-center text-center"></div>
       <div className="grid grid-cols-3 gap-14">
+        <ProjectsCard
+          title="Agro Market"
+          des="Agro Market is online Web-Application where Farmer, Dealer and Shopkeeper can perform all Agriculter related trade on single platform"
+          src={AgroMarket}
+          link1="https://github.com/Pranay8841/Agromarket-Hub"
+          link2="https://agromarket-hub.vercel.app/"
+        />
         <ProjectsCard
           title="E-commerce Application"
           des="Introducing an e-commerce platform to facilitate online shopping. Tech stack used is HTML, CSS, Javascript, Flask & MongoDB database.This platform provides a comprehensive solution for users to browse, search, and purchase products conveniently from the comfort of their homes."

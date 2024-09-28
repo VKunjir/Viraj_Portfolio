@@ -22,7 +22,7 @@ function Education() {
             <ResumeCard
               title="Information Technology TY-BTech"
               subTitle="VIIT, Pune (2021 - 2025)"
-              result="9.51/10"
+              result="9.53/10"
               des="I am currently in 3rd year of BTech pursuning IT engineering from VIIT, pune. I this 3 year of engineering I have experience various new situation and had great life."
             />
             <ResumeCard

@@ -16,6 +16,7 @@ import portfolio_pro from "./images/projects/portfolio_pro.jpg";
 import projectFour from "./images/projects/projectFour-2.jpeg";
 import ECommerce from "./images/projects/ECommerce.png";
 import ML_Harvesting from "./images/projects/ML_Harvesting.JPG";
+import AgroMarket from "./images/projects/AgroMarket.PNG";
 
 export {
   logo,
@@ -36,4 +37,5 @@ export {
   projectFour,
   ECommerce,
   ML_Harvesting,
+  AgroMarket,
 };
