@@ -18,7 +18,7 @@ function Features() {
       <div className="grid grid-cols-3 gap-20">
         <Card
           title="Problem Solver"
-          des="I have solved 240+ DSA problem on Different Platform."
+          des="I have solved 300+ DSA problem on Different Platform."
           icon={<FaCode />}
         />
 
@@ -29,7 +29,7 @@ function Features() {
         />
 
         <Card
-          title="ML Enthusiastic"
+          title="AI/ML Enthusiastic"
           des="I have keen interest in Machine Learning and I did completed ML course on INeuron Platform."
           icon={<FaComputer />}
         />

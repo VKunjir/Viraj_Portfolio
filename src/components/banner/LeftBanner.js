@@ -34,11 +34,11 @@ function LeftBanner() {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          Hi, I'm Viraj Vilas Kunjir, a Third-year IT engineering student at
-          VIIT, Pune. I'm a tech enthusiast who loves coding, reading about new
-          concepts and learning new technology. I've worked on projects like a
-          Online Art Gallery system, College Rating System, and Personal
-          Portfolio website. I've solved over 250++ Data Structures and
+          Hi, I'm Viraj Vilas Kunjir, a B.Tech Final Year IT engineering student
+          at VIIT, Pune. I'm a tech enthusiast who loves coding, reading about
+          new concepts and learning new technology. I've worked on projects like
+          a Online Art Gallery system, College Rating System, and Personal
+          Portfolio website. I've solved over 300+ Data Structures and
           Algorithms problems, and I'm eager to connect with professionals and
           experts on LinkedIn to make a difference in the IT world. Currently I
           have learned MERN Stack and Intern at Ineuron as Software Developer.
