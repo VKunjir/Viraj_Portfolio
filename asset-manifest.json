@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/Viraj_Portfolio/static/css/main.a9363f6d.css",
-    "main.js": "/Viraj_Portfolio/static/js/main.51726e87.js",
+    "main.css": "/Viraj_Portfolio/static/css/main.e36b6f05.css",
+    "main.js": "/Viraj_Portfolio/static/js/main.6b0a6ee3.js",
     "static/media/ML_Pro.jpg": "/Viraj_Portfolio/static/media/ML_Pro.e8bed331ddf2385946fc.jpg",
     "static/media/college_project.jpg": "/Viraj_Portfolio/static/media/college_project.58f59ec9020b81cdafd5.jpg",
     "static/media/portfolio_pro.jpg": "/Viraj_Portfolio/static/media/portfolio_pro.64185d385a86df23f1f8.jpg",
+    "static/media/AgroMarket.PNG": "/Viraj_Portfolio/static/media/AgroMarket.3f49398816906787708f.PNG",
     "static/media/bannerImg2.jpg": "/Viraj_Portfolio/static/media/bannerImg2.46d764c40be5839db56d.jpg",
     "static/media/logo3.png": "/Viraj_Portfolio/static/media/logo3.8b946135f8f831de3a68.png",
     "static/media/ECommerce.png": "/Viraj_Portfolio/static/media/ECommerce.e0476031d2d69df1ade3.png",
@@ -18,11 +19,11 @@
     "static/media/projectTwo.jpg": "/Viraj_Portfolio/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
     "static/media/logo2.png": "/Viraj_Portfolio/static/media/logo2.0e0daac2341a23bf4f02.png",
     "index.html": "/Viraj_Portfolio/index.html",
-    "main.a9363f6d.css.map": "/Viraj_Portfolio/static/css/main.a9363f6d.css.map",
-    "main.51726e87.js.map": "/Viraj_Portfolio/static/js/main.51726e87.js.map"
+    "main.e36b6f05.css.map": "/Viraj_Portfolio/static/css/main.e36b6f05.css.map",
+    "main.6b0a6ee3.js.map": "/Viraj_Portfolio/static/js/main.6b0a6ee3.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9363f6d.css",
-    "static/js/main.51726e87.js"
+    "static/css/main.e36b6f05.css",
+    "static/js/main.6b0a6ee3.js"
   ]
 }
